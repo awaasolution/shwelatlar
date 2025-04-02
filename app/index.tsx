@@ -13,7 +13,7 @@ export default function Index() {
       }}
     >
       <Text className="text-red-500">Edit app/index.tsx to edit this screen.</Text>
-      <TouchableOpacity onPress={()=>router.push('/(tabs)/profile')}>
+      <TouchableOpacity onPress={()=>router.push('/(tabs)/home')}>
         <Text>Profile</Text>
 
       </TouchableOpacity>

@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const twodigit = () => {
+const deposit = () => {
   return (
     <View>
-      <Text>twodigit</Text>
+      <Text>deposit</Text>
     </View>
   )
 }
 
-export default twodigit
+export default deposit
